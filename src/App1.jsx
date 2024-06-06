@@ -12,6 +12,17 @@ const SmartPhoneBrandList = [
     { label: "LG", value: "LG" },
     { label: "Motorola", value: "Motorola" },
     { label: "Moka", value: "Moka" },
+    { label: "Moto G", value: "Moto G" },
+    { label: "Moto E", value: "Moto E" },
+    { label: "Nokia", value: "Nokia" },
+    { label: "Nubia", value: "Nubia" },
+    { label: "Nextbit", value: "Nextbit" },
+    { label: "Oppo", value: "Oppo" },
+    { label: "OnePlus Nord", value: "OnePlus Nord" },
+    { label: "Panasonic", value: "Panasonic" },
+    { label: "Poco", value: "Poco" },
+    { label: "Palm", value: "Palm" },
+    { label: "Sony Xperia X", value: "Sony Xperia X" }
 ];
 
 function App1() {
